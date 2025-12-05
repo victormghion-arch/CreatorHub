@@ -23,7 +23,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0a0a0a"
       },
-      "package": "com.creatorhub.mobile"
+      "package": "com.creatorhub.mobile",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
